@@ -20,7 +20,7 @@ This is a simple and clean website to showcase my skills and projects.
 ---
 
 ### 🔗 Live Portfolio
-[Click to Visit Portfolio](https://mayank-code18.github.io/mayank-portfolio/)
+[Click to Visit Portfolio](https://mayank-code18.github.io/Mayank-Portfolio/)
 
 ---
 
